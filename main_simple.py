@@ -3,7 +3,7 @@ import os, sys
 from botorderclient import BotOrderClient
 import time
 
-sys.path.append(os.path.join(os.path.dirname(__file__), 'ProjectTradingPOO'))
+sys.path.append(os.path.join(os.path.dirname(__file__), 'Robot-trading-PNL'))
 
 from bot import Bot
 
